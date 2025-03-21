@@ -80,15 +80,6 @@ Ensure you have Python installed, then install the required packages:
    python login.py
 ```
 
-## Screenshots
-### Login Page
-![Login Page](screenshots/login.png)
-
-### User Dashboard
-![User Dashboard](screenshots/user_dashboard.png)
-
-### Admin Panel
-![Admin Panel](screenshots/admin_panel.png)
 
 ## Conclusion
 The M-List successfully integrates Python, MySQL, and a GUI to create a smooth and personalized movie recommendation experience. With an intuitive interface and a secure database, the application provides an efficient way for users to discover and organize their favorite movies.
